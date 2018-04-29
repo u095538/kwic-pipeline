@@ -1,5 +1,9 @@
 # kwic-pipeline
 KWIC project: pipeline solution 
+
+### Demo Video
+[![demo video hosted on YouTube](https://img.youtube.com/vi/8V3_NkOm63E/0.jpg)](https://www.youtube.com/watch?v=8V3_NkOm63E)
+
 #### Instructions Linux
 Run from bin directory:
 ```bash
